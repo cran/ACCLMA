@@ -1,0 +1,15 @@
+3410ea1c407c4a171e33abca4d5bc34f *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+d665c37b670d531c1d18321841695f3a *R/lmafunctions.r
+c24c1f60a544dd2aaf7422462b473a4f *man/ACCLMA-package.Rd
+52bc1c9482289e5616f36516c6e37f80 *man/averageSameXs.Rd
+22306626d36e373f1ed5b828558ba4ba *man/calcFX.Rd
+58e2c8be4899c1ab4bdef9c5a281304a *man/calcFY.Rd
+b3289ce2fcca2b40be1568b2673f568d *man/calcLMA.Rd
+689bd7a9fa8e88c8d5d6b298bf559770 *man/calcLOI.Rd
+18482d14ac2bd387932874349ba65979 *man/calcWeights.Rd
+fc438829e2bf48a75189642b4601e423 *man/fillCSVData.Rd
+f00c9b02432594085103daa26b6eb761 *man/fillData.Rd
+07df69e12ba0422a3f4405e123ad96e3 *man/plotGraphs.Rd
+94b08d09e496be6982614617b57ef122 *man/plotLMA.Rd
+b494a7aa735de79d5bf2ef38d4ac02f2 *man/size.Rd
